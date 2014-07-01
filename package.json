@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "grunt": "~0.4.3",
-    "grunt-jasmine-node-coverage": "~0.1.10",
+    "grunt-jasmine-node-coverage": "~0.1.10"
   }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "dota-2-api all()",
+  "version": "0.0.1",
+  "description": "dota 2 api all wrapper",
+  "main": "all.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daynekilheffer/dota-2-api_all.git"
+  },
+  "author": "dayne kilheffer",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/daynekilheffer/dota-2-api_all/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-jasmine-node-coverage": "~0.1.10",
+  }
+}

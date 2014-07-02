@@ -4,9 +4,13 @@ The `all` project provides a wrapper around [dota-2-api](http://github.com/dayne
 
 ## Usage
 
+_Currently only supporting match history_
+
+### matchHistory
+
 ```javascript
 var dota2 = ...
-var all = require('all');
+var all = require('dota-2-api_all');
 
 var matchHistory = dota2.matchHistory().accountId(10000000);
 
